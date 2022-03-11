@@ -1,0 +1,256 @@
+.header {
+    background-color: #ffcb04;
+    margin-top: -8px;
+    display: flex;
+    align-items: center;
+    padding: 25px 15px;
+    font-family: 'MyrProBoldCond' !important;
+}
+
+#rigth-menu {
+
+    justify-content: space-between;
+    clear: both;
+    line-height: 1.4;
+    letter-spacing: normal;
+    color: #090909;
+    font-size: 1.1rem;
+   
+}
+#rigth-menu a {
+    margin-left: 15px;
+}
+
+
+
+.exxenspor {
+    background-color: black;
+    border: 1px solid;
+    padding: 10px 10px;
+    font-size: 13px;
+    color: #ffcb04 !important;
+    margin-top: 8px;
+    margin-left: -500px;
+    word-spacing: normal;
+    font: inherit;
+    text-decoration: none;
+
+}
+
+.uyegiris {
+    background-color: #ffcb04;
+    color: black;
+    border: 1px solid;
+    padding: 10px 10px;
+    font-size: 1rem;
+    margin-top: 8px;
+    word-spacing: normal;
+    font: inherit;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
+#genel-form{
+    background: #111;
+    height: 100px;
+}
+.form{
+    font-family: 'MyrProBoldCond' !important;
+    clear: both;
+    line-height: 1.4;
+    letter-spacing: normal;;
+    display: flex;
+    align-content: flex-start;
+    margin-left: 250px;
+    padding-top: 15px;
+}
+#name{
+    color: #000;
+}
+
+.section{
+    display: block;
+}
+.contact-form{
+    padding: 15px 0 0 0;
+}
+
+
+.contact-form__line{
+    display: block;
+    align-items: center;
+    justify-content: center;
+  
+}
+.contact-form__input,.contact-form__submit{
+    width: calc ( 100% - 30px);
+    margin-bottom: 10px;
+    height: 40px;
+}
+.contact-form__input{
+    color: black;
+    border: solid 2px #c7c7c7;
+    background-color: #ffffff;
+    padding: 0 19px;
+    font-size: 1.125rem;
+    margin: 0px 15px;
+    flex: 0 0 30.56%;
+    font-weight: normal;
+
+}
+.contact-form__submit{
+    flex: 0 0 30%;
+    margin: 0px 15px;
+    object-fit: contain;
+    background-color: #ffcb04;
+    font-size: 1.3rem;
+    font-family: 'MyrProBoldCond' !important;
+    width: 250px;
+}
+
+button{
+    border-radius: 0;
+    border: none;
+    transition: all .5s;
+    color: #000;
+}
+.ana-orta-bolum{
+    padding-top: 30px;
+    background-color: #000;
+    font-family: 'MyrProBoldCond' !important;
+    clear: both;
+    line-height: 1.4;
+    letter-spacing: normal;
+}
+.image-sport{
+    width: 850px;
+    margin-top: 15px;
+    margin-left: 250px;
+}
+
+.ana-alt-bolum{
+    background-color: #000;
+    padding-top: 30px;
+    display: flex;
+   box-sizing: border-box;
+   
+}
+.model{
+    display: flex;
+    float: left;
+}
+.model a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 10px 0 0 0;
+    display: block;
+    font-size: 1.2rem;
+    
+}
+.model a:hover, a:focus {
+    text-decoration: none;
+    color: #fff;
+    outline: none;
+}
+
+img.null-img{
+    width: 200px;
+    margin-left: 100px;
+}
+.film{
+    text-align: center;
+    margin-left: 70px;
+}
+
+   .footer{
+       background-color: #000;
+   }
+.ana-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.ana-footer img{
+    width: 320px;
+}
+.footer-2{
+    background-color: #000;
+    clear: both;
+    line-height: 1.4;
+    letter-spacing: normal;
+}
+.footer-2-2{
+    display: inline-block;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto
+}
+.bottom-device-text{
+    padding: 0 20px;
+    margin: 30px 0;
+    font-size: 20px;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+.app-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-link img{
+    height: 40px;
+    width: auto;
+    margin: 0 5px;
+}
+ul.social-icon-container{
+    margin: 50px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+ul.social-icon-container li{
+    margin: 0 6px;
+    list-style-type: none;
+}
+.exxen-yardim{
+    border-color: #000;
+    font-family: 'MyrProBoldCond' !important;
+    clear: both;
+    line-height: 1.4;
+    letter-spacing: normal;
+}
+.link-box{
+    margin: 0 20px 20px 20px;
+    padding: 19px 0;
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    background-color: #090909;
+   
+}
+.link-box a{
+    color: #ffcb04;
+    text-decoration: none;
+    outline: none;
+}
+.link-box a, a:hover, a:focus {
+    text-decoration: none;
+    outline: none;
+}
+    
+
